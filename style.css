@@ -1,0 +1,16 @@
+body{
+    background-image:url("cowbays.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h3{
+    background: rgb(99,30,2);
+background: linear-gradient(90deg, rgba(99,30,2,1) 2%, rgba(228,108,9,1) 33%, rgba(255,25,0,1) 100%);
+color:rgb(220, 177, 4);
+padding: 10px;
+margin-top: 0;
+}
+button{
+    background-color:rgb(220, 177, 4) ;
+    color: black;
+}
